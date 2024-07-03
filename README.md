@@ -1,6 +1,6 @@
-GPSTools
-========
+ArduinoTools
+============
 
 (WIP)
 
-Collection of functions for GPS position calculations.
+Collection of functions to embed Arduino support in Desktop applications.
